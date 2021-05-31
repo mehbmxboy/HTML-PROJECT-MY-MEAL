@@ -1,0 +1,12 @@
+#navbar {
+    flex-direction: column;
+    height: auto;
+  }
+
+  #login {
+    position: static;
+  }
+  
+  #signup {
+    position: static;
+  }
