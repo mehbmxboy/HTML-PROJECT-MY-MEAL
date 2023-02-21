@@ -28,13 +28,13 @@ Installation
 
 To install the website on your local machine, follow these steps:
 
-    Clone the repository using the following command:
+   Clone the repository using the following command:
 
     git clone https://github.com/mehbmxboy/-HTML-Project1.git
 
-    Navigate to the project directory.
+   Navigate to the project directory.
 
-    Open the index.html file in your web browser.
+   Open the index.html file in your web browser.
 
 Usage
 
