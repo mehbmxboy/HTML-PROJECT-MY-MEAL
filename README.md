@@ -30,7 +30,7 @@ To install the website on your local machine, follow these steps:
 
    Clone the repository using the following command:
 
-    git clone https://github.com/mehbmxboy/-HTML-Project1.git
+    git clone https://github.com/mehbmxboy/HTML-PROJECT-MY-MEAL.git
 
    Navigate to the project directory.
 
